@@ -26,7 +26,8 @@ let citations = [
   ["Les gagnants trouvent des moyens, les perdants des excuses…", "F. D. Roosevelt"],
   ["Vous n’êtes jamais trop vieux pour vous fixer de nouveaux buts, ou rendre vos rêves réalité.", "C.S. Lewis"],
   ["Un pessimiste voit la difficulté dans chaque opportunité. Un optimiste voit une opportunité dans chaque difficulté.", "Winston Churchill"],
-  ["L'avantage d'être intelligent, c'est qu'on peut toujours faire l'imbécile, alors que l'inverse est totalement impossible.", "Woody Allen"]
+  ["L'avantage d'être intelligent, c'est qu'on peut toujours faire l'imbécile, alors que l'inverse est totalement impossible.", "Woody Allen"],
+  ["Quand on ose, on se trompe souvent; quand on ose pas, on se trompe toujours", "Romain Rolland"]
 ];
 
 // Fonction permettant de générer un nombre aléatoire
